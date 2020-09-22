@@ -10,3 +10,4 @@ PrAha Inc
 
 * Twitter: https://twitter.com/_Ria0130
 * Blog: https://ria0130.dev/
+* Zenn: https://zenn.dev/ria
